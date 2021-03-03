@@ -1,4 +1,4 @@
-# basic-course-JavaScript
+# basic-course-JavaScript/4
 //Задание 1
 <meta charset="utf-8">
 <script>
